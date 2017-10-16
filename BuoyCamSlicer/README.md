@@ -1,6 +1,6 @@
 # Buoy Cam Slicer
 
-A tool for visualizing the history of buoy cam images (see [mikewesthad/buoy-cam-scraper](https://github.com/mikewesthad/buoy-cam-scraper)). This takes a single vertical slice from every buoy cam image.
+A tool for visualizing the history of buoy cam images (see [mikewesthad/buoy-cam-scraper](https://github.com/mikewesthad/buoy-cam-scraper)). This takes a single vertical slice from every buoy cam image that has been scraped - compressing months of oceanscapes into a single images.
 
 Sketches (click to see full size):
 

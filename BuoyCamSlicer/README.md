@@ -6,4 +6,4 @@ Sketches (click to see full size):
 
 [![](slices/41424.png)](https://raw.githubusercontent.com/mikewesthad/buoy-analyzer/master/BuoyCamSlicer/slices/41424.png)
 
-[![](slices/46015.png)](https://raw.githubusercontent.com/mikewesthad/buoy-analyzer/master/BuoyCamSlicer/slices/41048.png)
+[![](slices/46015.png)](https://raw.githubusercontent.com/mikewesthad/buoy-analyzer/master/BuoyCamSlicer/slices/46015.png)

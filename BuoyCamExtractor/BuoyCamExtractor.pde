@@ -11,7 +11,7 @@ String imagesDirectory = "E:/Github/buoy-cam-scraper/scraped-images/";
 
 // Name of the folder where output will be stored
 String runName = "trial-run";
-int maxSlices = 100;
+int maxFrames = 50;
 String outputPath = "extracted/" + runName;
 
 int captionHeight = 30;
@@ -29,7 +29,7 @@ void setup() {
     Arrays.sort(imageNames);
     
     if (imageNames.length > 0) {
-      int startingIndex = max(0, imageNames.length - maxSlices);
+      int startingIndex = max(0, imageNames.length - maxFrames);
       String[] recentImages = Arrays.copyOfRange(imageNames, startingIndex, imageNames.length - 1);
       
       String savePath = outputPath + "/" + buoyID + ".png";
